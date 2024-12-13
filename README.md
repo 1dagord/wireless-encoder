@@ -9,3 +9,5 @@ When communicating wirelessly, there are a handful of challenges present that ar
 - Inter-Symbol Interference
 
 These challenges can both compromise the fidelity of the signal and hinder the speed of communication.
+
+One communication paradigm that elminates many of these problems by nature is Orthogonal Frequency Domain Multiplexing (OFDM). This is the basis for my wireless encoder.
