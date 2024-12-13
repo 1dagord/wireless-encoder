@@ -5,6 +5,7 @@ When communicating wirelessly, there are a handful of challenges present that ar
 - Bit Power Allocation
 - Thermal/Shot Noise
 - Synchronization
+- Quantization
 - Inter-Symbol Interference
 
 These challenges can both compromise the fidelity of the signal and hinder the speed of communication.
