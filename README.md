@@ -3,7 +3,7 @@
 When communicating wirelessly, there are a handful of challenges present that are not applicable to traditional communication over a wire. These challenges include:
 
 - Bit Power Allocation
-- Noise
+- Thermal/Shot Noise
 - Synchronization
 - Inter-Symbol Interference
 
